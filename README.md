@@ -13,4 +13,4 @@
 
 ## Link
 
-[versel-WordPress](https://word-press-pink.vercel.app)
+[vercel-WordPress](https://word-press-pink.vercel.app)
